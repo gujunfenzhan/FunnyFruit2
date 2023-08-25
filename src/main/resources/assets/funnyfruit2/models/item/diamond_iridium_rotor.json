@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "funnyfruit2:item/diamond_iridium_rotor"
+    }
+}

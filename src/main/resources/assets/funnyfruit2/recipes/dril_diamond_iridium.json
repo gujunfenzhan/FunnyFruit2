@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "BCB",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "funnyfruit2:diamond_iridium",
+      "data": 0
+    },
+    "B": {
+      "item": "ic2:crafting",
+      "data": 2
+    },
+    "C": {
+      "item": "ic2:iridium_drill"
+    },
+    "D": {
+      "item": "ic2:lapotron_crystal"
+    },
+    "E": {
+      "item": "ic2:te",
+      "data": 47
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:drill_diamond_iridium"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "ic2:dust",
+      "data": 5
+    },
+    "B": {
+      "item": "ic2:misc_resource",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:diamond_iridium_ore"
+  }
+}

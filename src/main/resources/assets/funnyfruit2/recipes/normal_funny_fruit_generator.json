@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "ic2:crafting",
+      "data": 3
+    },
+    "B": {
+      "item": "minecraft:diamond",
+      "data": 0
+    },
+    "C": {
+      "item": "ic2:crafting",
+      "data": 1
+    },
+    "D": {
+      "item": "funnyfruit2:funny_fruit",
+      "data": 0
+    },
+    "E": {
+      "item": "ic2:te",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:normal_funny_fruit_generator"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "funnyfruit2:diamond_iridium_rotor_template"
+    },
+    {
+      "item": "ic2:rotor_carbon"
+    }
+  ],
+  "result": {
+    "item": "funnyfruit2:diamond_iridium_rotor"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "funnyfruit2:diamond_iridium",
+      "data": 0
+    },
+    "B": {
+      "item": "funnyfruit2:diamond_funny_fruit"
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:funny_essence"
+    }
+}

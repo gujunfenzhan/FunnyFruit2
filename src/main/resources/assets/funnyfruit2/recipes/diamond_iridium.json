@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "funnyfruit2:diamond_iridium_ore",
+      "data": 0
+    },
+    "B": {
+      "item": "ic2:crafting",
+      "data": 3
+    },
+    "C": {
+      "item": "funnyfruit2:golden_funny_fruit"
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:diamond_iridium"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "funnyfruit2:funny_essence",
+      "data": 0
+    },
+    "B": {
+      "item": "minecraft:nether_star",
+      "data": 0
+    },
+    "C": {
+      "item": "funnyfruit2:triple_funny_fruit_generator",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:ultimate_funny_fruit_generator"
+    }
+}

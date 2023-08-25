@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "funnyfruit2:block/disu/disu_leftrightback",
+    "down": "funnyfruit2:block/disu/disu_bottomtop",
+    "up": "funnyfruit2:block/disu/disu_bottomtop",
+    "north": "funnyfruit2:block/disu/disu_front",
+    "south": "funnyfruit2:block/disu/disu_leftrightback",
+    "west": "funnyfruit2:block/disu/disu_leftrightback",
+    "east": "funnyfruit2:block/disu/disu_leftrightback"
+  }
+}

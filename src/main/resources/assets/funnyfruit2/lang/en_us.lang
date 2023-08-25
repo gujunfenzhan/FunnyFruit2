@@ -1,0 +1,38 @@
+itemGroup.creativeTab.funnyfruit=Funny-Fruit
+
+tile.SaplingFunnyFruit.name=Funny'sapling
+tile.logFunnyFruit.name=Funny'log
+tile.levelFunny.name=Funny-Tree-Leaf
+tile.levelFunnyFruit.name=Funny'leaf
+tile.normalFunnyFruitGenerator.name=The First order-Generator of Funny-Fruit
+tile.doubleFunnyFruitGenerator.name=The Second order-Generator of Funny-Fruit
+tile.tripleFunnyFruitGenerator.name= The Third order-Generator of Funny-Fruit
+tile.ultimateFunnyFruitGenerator.name=Final Generator of Funny-Fruit
+
+item.funnyFruit.name=FunnyFruit
+item.goldenFunnyFruit.name=The FunnyFruit of 24Karat
+item.funnyEssence.name=Funny'sEssence
+item.diamondIridium.name=The Diamond iridium
+item.diamondIridiumOre.name=Ore of The Diamond iridium
+ic2.drillDiamondIridium=Drill of Diamond iridium
+item.diamondIridiumRotor.name=Diamond-Iridium Rotor
+item.diamondFunnyFruit.name=The FunnyFruit of Diamond
+item.diamondIridiumCrystal.name=The Energy Crystal of Diamond-Iridium
+item.diamondIridiumHelmet.name=The Helmet Be Wrapped Diamond-Iridium
+item.diamondIridiumChest.name=The Chest Be Wrapped Diamond-Iridium
+item.diamondIridiumLeggings.name=The Leggings Be Wrapped Diamond-Iridium
+item.diamondIridiumBoots.name=The Boots Be Wrapped Diamond-Iridium
+item.diamondIridiumRotorTemplate.name=The RotorTemplate of Diamond-Iridium
+
+
+goldenFunnyFruit.desc.1=§5Dig and dig and dig in the Funny'tree.
+goldenFunnyFruit.desc.2=§5Looking on the ground, looking and looking.
+goldenFunnyFruit.desc.3=§5Run, run, run under the Funny'tree
+goldenFunnyFruit.desc.4=  §5Our joys are many and many.
+
+normalFunnyFruitGenerator.desc.1=The First order-Generator of Funny-Fruit
+doubleFunnyFruitGenerator.desc.1=The Second order-Generator of Funny-Fruit
+tripleFunnyFruitGenerator.desc.1=The Third order-Generator of Funny-Fruit
+ultimateFunnyFruitGenerator.desc.1=Final Generator of Funny-Fruit
+funnyfruit2.te.disu=(DISU)Accumulator
+funnyfruit2.te.disu_charged=Charger(DISU)

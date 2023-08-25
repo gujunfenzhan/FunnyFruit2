@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"funnyfruit2:log_funny_fruit"
+        }
+    ],
+    "result":{
+        "item":"minecraft:log",
+        "data":0
+    }
+} 

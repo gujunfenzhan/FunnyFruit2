@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "funnyfruit2:block/normal_funny_fruit_generator",
+        "bottom": "ic2:blocks/generator/electric/generator_bottom",
+        "top": "ic2:blocks/generator/electric/generator_top"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "funnyfruit2:funny_fruit"
+    }
+  },
+  "result": {
+    "item": "funnyfruit2:golden_funny_fruit"
+  }
+}
